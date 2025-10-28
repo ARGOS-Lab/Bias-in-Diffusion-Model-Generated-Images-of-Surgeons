@@ -122,7 +122,6 @@ With special thanks to mentors **Anne Stey**, **Megan Applewhite**, and **Leo Ce
 ## 🔗 Links
 
 - Repository: [ARGOS-Lab/Bias-in-Diffusion-Model-Generated-Images-of-Surgeons](https://github.com/ARGOS-Lab/Bias-in-Diffusion-Model-Generated-Images-of-Surgeons)
-- ARGOS Research Group: [https://argos-lab.org](https://argos-lab.org)
 
 ---
 
